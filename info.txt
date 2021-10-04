@@ -1,0 +1,30 @@
+[치환표]
+평문   : j a l g f b m n e d p k q u t h c x z i o y s v r w 
+암호문 : a b c d e f g h i j k l m n o p q r s t u v w x y z 
+------------------------------------------------------------
+0	i -> e
+1	o -> t
+2	p -> h
+3	b -> a
+4	w -> s
+5	u -> o
+6	c -> l
+7	y -> r
+8	v -> y
+9	q -> c
+10	h -> n
+11	n -> u
+12	t -> i
+13	j -> d
+14	d -> g
+15	e -> f
+16	f -> b
+17	z -> w
+18	x -> v
+19	g -> m
+20	k -> p
+21	r -> x
+22	l -> k
+23	s -> z
+24	m -> q
+25	a -> j
